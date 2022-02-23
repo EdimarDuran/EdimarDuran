@@ -1,11 +1,9 @@
-<div align="left">
-  <img height="160cm" align="lefth" src="https://user-images.githubusercontent.com/80700451/155415638-eb15eec4-94d0-476d-8e24-1172ae4c605f.png"/>    
-  <h1>Oiii, eu sou o EdimarDuran 👋</h1>
-  <p>- 🔭 Eu trabalho com </p>
-  <p>- 💬 Eu estou estudando ...</p>
 <div>
-
-
+    <img align="lefth" src="https://user-images.githubusercontent.com/80700451/155415638-eb15eec4-94d0-476d-8e24-1172ae4c605f.png" height="300cm">    
+    <h1>Oiii, eu sou o EdimarDuran 👋</h1> 
+    <p>🔭 Eu trabalho com <br>💬 Eu estou estudando ...</p>
+</div>
+ 
 <div align="center">
   <a href="https://github.com/EdimarDuran">
   <img height="160cm" width="48%" src="https://github-readme-stats.vercel.app/api?username=EdimarDuran&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
