@@ -3,7 +3,7 @@
     <h1>Oiii, eu sou o EdimarDuran 👋</h1> 
     <p>🔭 Mestrando em Ciências dos materiais</p>
     <p>💬 Estudando propriedades de cerâmicas supercondutoras</p>
-    <p> :snake: Análise de dados com python</p>
+    <p> :snake: Análise de dados com python </p>
     <br>
     <br>
     <br>
