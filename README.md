@@ -11,10 +11,7 @@
     <p>💬 Estudando propriedades de cerâmicas supercondutoras</p>
     <p> :snake: Análise de dados com python </p>
     <br>
-    <br>
-    <br>
-    <br>
-    <br>
+
 </div>
     
 <div align="center">
