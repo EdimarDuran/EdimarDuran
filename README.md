@@ -17,7 +17,7 @@
   <img height="160cm" width="45%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdimarDuran&layout=compact&langs_count=7&theme=gotham"/>
 </div>
     
-##
+
 
 <div align="left"> 
   <a href="https://www.instagram.com/edimar.a.s.duran/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
