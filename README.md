@@ -1,7 +1,10 @@
 <div>
     <img align="left" src="https://user-images.githubusercontent.com/80700451/155415638-eb15eec4-94d0-476d-8e24-1172ae4c605f.png" height="200cm">
-    ##
-    ##
+     <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <h1>Oiii, eu sou o EdimarDuran 👋</h1> 
     <p>🔭 Mestrando em Ciências dos materiais</p>
     <p>💬 Estudando propriedades de cerâmicas supercondutoras</p>
