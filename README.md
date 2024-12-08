@@ -5,6 +5,7 @@
     <br>
     <br>
     <br>
+    <br>
     <h1>Oiii, eu sou o EdimarDuran 👋</h1> 
     <p>🔭 Mestrando em Ciências dos materiais</p>
     <p>💬 Estudando propriedades de cerâmicas supercondutoras</p>
